@@ -1,0 +1,45 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+127.0.0.1       	activate.navicat.com
+127.0.0.1       	www.xuecheng.com
+127.0.0.1       	eureka7001.com
+127.0.0.1       	eureka7002.com
+127.0.0.1       	eureka7003.com
+127.0.0.1       	config-3344.com
+127.0.0.1       	www.mindjet.com
+127.0.0.1       	mindjet.com
+127.0.0.1           ipm.corel.com
+20.205.243.166      github.com
+
+###########################################################
+
+#乐优商城域名配置
+127.0.0.1       manage.leyou.com
+127.0.0.1       api.leyou.com
+127.0.0.1       eureka10086.com
+
+#本地通过域名访问linux图片
+#update by lx 20210502
+192.168.31.101       image.leyou.com
+
+#add by lx 20210403 乐优前台域名映射 
+127.0.0.1       www.leyou.com

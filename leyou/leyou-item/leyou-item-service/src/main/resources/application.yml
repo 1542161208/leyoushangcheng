@@ -1,0 +1,38 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: item-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/leyou?characterEncoding=utf-8&serverTimezone=UTC
+    username: root
+    password: ENC(ezA3qTWbDzZM9yrvpY5S7W87ESy5d6Ka)
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  rabbitmq:
+    host: 192.168.31.101
+    username: leyou
+    password: leyou
+    virtual-host: /leyou
+    template:
+      exchange: LEYOU.ITEM.EXCHANGE
+
+#add by lx 20210724
+jasypt:
+  encryptor:
+    password: jasypt
+    algorithm: PBEWithMD5AndDES
+    property:
+      prefix: ENC(
+      suffix: )
+
+mybatis:
+  type-aliases-package: com.leyou.item.pojo
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+  instance:
+    lease-renewal-interval-in-seconds: 5 # 5秒钟发送一次心跳
+    lease-expiration-duration-in-seconds: 10 #  10秒不发送就会过期
