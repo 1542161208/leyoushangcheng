@@ -9,7 +9,7 @@ import tk.mybatis.mapper.common.Mapper;
 import java.util.List;
 
 /**
- * @author lx
+ * @author xiang
  * @date 2020/10/26
  */
 public interface BrandMapper extends Mapper<Brand> {

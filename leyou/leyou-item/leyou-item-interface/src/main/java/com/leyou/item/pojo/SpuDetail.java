@@ -5,7 +5,7 @@ import javax.persistence.Table;
 
 /**
  * @description Spu详情类
- * @author lx
+ * @author xiang
  * @date 2020/12/26
  */
 @Table(name="tb_spu_detail")

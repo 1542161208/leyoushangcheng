@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * @description 规格参数对象实体类
- * @author lx
+ * @author xiang
  * @date 2020/12/13
  */
 // 使用的是SpringDataJPA的映射方式

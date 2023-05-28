@@ -11,7 +11,7 @@ import javax.validation.constraints.Pattern;
 import java.util.Date;
 
 /**
- * @author lx
+ * @author xiang
  * @description 用户实体类
  * @date 2021/10/05
  */

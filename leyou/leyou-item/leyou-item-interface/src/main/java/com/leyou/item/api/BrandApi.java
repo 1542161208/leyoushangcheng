@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 /**
- * @author lx
+ * @author xiang
  * @date 2020/10/26
  */
 @RequestMapping("brand")

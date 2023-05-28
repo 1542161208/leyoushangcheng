@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
 
 /**
  * @description 导入Elasticsearch索引库的测试类
- * @author lx
+ * @author xiang
  * @date 2021/05/02
  */
 @SpringBootTest

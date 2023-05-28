@@ -8,7 +8,7 @@ import org.springframework.web.filter.CorsFilter;
 
 /**
  * @description 配置解决文件上传跨域问题
- * @author lx
+ * @author xiang
  * @date 2020/11/11
  */
 @Configuration

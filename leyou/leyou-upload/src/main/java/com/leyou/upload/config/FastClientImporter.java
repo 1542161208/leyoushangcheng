@@ -8,7 +8,7 @@ import org.springframework.jmx.support.RegistrationPolicy;
 
 /**
  * @description 防止重复注册bean实例
- * @author lx
+ * @author xiang
  * @date 2020/11/12
  */
 @Configuration

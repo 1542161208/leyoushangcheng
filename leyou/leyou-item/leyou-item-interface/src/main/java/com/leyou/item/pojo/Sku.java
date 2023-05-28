@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  * @description 商品规格参数组对象
- * @author lx
+ * @author xiang
  * @date 2021/01/07
  */
 @Table(name = "tb_sku")

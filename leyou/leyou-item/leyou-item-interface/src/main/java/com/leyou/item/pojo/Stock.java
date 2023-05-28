@@ -5,7 +5,7 @@ import javax.persistence.Table;
 
 /**
  * @description 库存实体类
- * @author lx
+ * @author xiang
  * @date 2021/01/10
  */
 @Table(name = "tb_stock")

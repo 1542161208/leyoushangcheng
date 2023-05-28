@@ -3,7 +3,7 @@ package com.leyou.search.pojo;
 import java.util.List;
 
 /**
- * @author lx
+ * @author xiang
  * @description 权限类
  * @date 2021/07/15
  */

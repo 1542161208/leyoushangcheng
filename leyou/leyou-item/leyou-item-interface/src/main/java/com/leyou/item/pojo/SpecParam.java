@@ -4,7 +4,7 @@ import javax.persistence.*;
 
 /**
  * @description 每一个规格参数组对应规格参数实体类
- * @author lx
+ * @author xiang
  * @date 2020/12/13
  */
 @Table(name = "tb_spec_param")

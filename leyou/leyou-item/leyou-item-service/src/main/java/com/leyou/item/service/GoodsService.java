@@ -26,7 +26,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author lx
+ * @author xiang
  * @description 商品服务类
  * @date 2020/12/26
  */

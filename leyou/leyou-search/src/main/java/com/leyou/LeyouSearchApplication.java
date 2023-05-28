@@ -7,7 +7,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
  * @description 乐优搜索微服务主启动类
- * @author lx
+ * @author xiang
  * @date 2021/05/01
  */
 @SpringBootApplication

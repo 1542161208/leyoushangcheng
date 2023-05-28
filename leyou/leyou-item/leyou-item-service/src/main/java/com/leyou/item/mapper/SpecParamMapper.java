@@ -5,7 +5,7 @@ import tk.mybatis.mapper.common.Mapper;
 
 /**
  * @description 规格参数Mapper继承通用Mapper
- * @author lx
+ * @author xiang
  * @date 2020/12/13
  */
 public interface SpecParamMapper extends Mapper<SpecParam> {

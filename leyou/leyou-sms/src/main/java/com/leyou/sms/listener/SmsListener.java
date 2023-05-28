@@ -16,7 +16,7 @@ import org.springframework.util.CollectionUtils;
 import java.util.Map;
 
 /**
- * @author lx
+ * @author xiang
  * @description 监听发送短信的队列
  * @date 2021/10/05
  */

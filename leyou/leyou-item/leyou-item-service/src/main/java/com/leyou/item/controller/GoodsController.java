@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * @author lx
+ * @author xiang
  * @description 商品处理接口
  * @date 2020/12/26
  */

@@ -16,7 +16,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.stereotype.Component;
 
 /**
- * @author lx
+ * @author xiang
  * @description 发送短息的工具类
  * @date 2021/10/05
  */

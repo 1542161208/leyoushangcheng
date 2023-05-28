@@ -6,7 +6,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @author lx
+ * @author xiang
  * @date 2020/10/20
  */
 // 实体类映射表表名称，如果不加这个注解会默认使用类名

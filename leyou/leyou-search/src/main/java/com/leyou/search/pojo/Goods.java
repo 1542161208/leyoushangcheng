@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  * @description 商品模型类,封装要保存到索引库的数据,并设置映射属性
- * @author lx
+ * @author xiang
  * @date 2021/05/02
  */
 @Document(indexName = "goods", type = "docs", shards = 1, replicas = 0)

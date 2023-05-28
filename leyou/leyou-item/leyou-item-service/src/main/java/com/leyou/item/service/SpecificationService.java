@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * @description 规格参数相关相关服务类
- * @author lx
+ * @author xiang
  * @date 2020/12/13
  */
 @Service

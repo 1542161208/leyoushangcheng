@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * @description 商品相关接口
- * @author lx
+ * @author xiang
  * @create 2021/05/02
  */
 public interface GoodsApi {

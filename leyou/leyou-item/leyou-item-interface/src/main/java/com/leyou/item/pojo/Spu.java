@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  * @description Spu实体类对象
- * @author lx
+ * @author xiang
  * @date 2020/12/26
  */
 @Table(name = "tb_spu")

@@ -5,7 +5,7 @@ import tk.mybatis.mapper.common.Mapper;
 
 /**
  * @description SpuDetail通用Mapper
- * @author lx
+ * @author xiang
  * @create 2020/12/26
  */
 public interface SpuDetailMapper extends Mapper<SpuDetail> {

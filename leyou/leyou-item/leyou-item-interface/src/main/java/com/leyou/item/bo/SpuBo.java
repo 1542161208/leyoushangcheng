@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * @description Spu业务扩展类
- * @author lx
+ * @author xiang
  * @create 2020/12/26
  */
 public class SpuBo extends Spu {

@@ -1,7 +1,7 @@
 package com.leyou.search.pojo;
 
 /**
- * @author lx
+ * @author xiang
  * @description de
  * @date 2021/07/15
  */

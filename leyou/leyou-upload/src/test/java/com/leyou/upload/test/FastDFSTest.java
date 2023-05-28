@@ -15,7 +15,7 @@ import java.io.FileNotFoundException;
 
 /**
  * @description FastDFS测试类
- * @author lx
+ * @author xiang
  * @date 2020/11/12
  */
 @SpringBootTest

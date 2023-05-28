@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.util.List;
 /**
  * @description 规格参数接口
- * @author lx
+ * @author xiang
  * @date 2020/12/13
  */
 @RequestMapping("spec")

@@ -10,7 +10,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
 /**
- * @author lx
+ * @author xiang
  * @description 生成商品详情模板缓存
  * @date 2021/10/03
  */

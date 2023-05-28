@@ -3,7 +3,7 @@ package com.leyou.sms.config;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author lx
+ * @author xiang
  * @description 属性读取类
  * @date 2021/10/05
  */
